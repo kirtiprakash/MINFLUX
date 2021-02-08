@@ -1,0 +1,167 @@
+\begin{thebibliography}{}
+
+\bibitem[Baer, 1999]{baer1999method}
+Baer, S.~C. (1999).
+\newblock Method and apparatus for improving resolution in scanned optical
+  system.
+\newblock US Patent 5,866,911.
+
+\bibitem[Balzarotti et~al., 2017]{balzarotti2017nanometer}
+Balzarotti, F., Eilers, Y., Gwosch, K.~C., Gynn{\aa}, A.~H., Westphal, V.,
+  Stefani, F.~D., Elf, J., and Hell, S.~W. (2017).
+\newblock Nanometer resolution imaging and tracking of fluorescent molecules
+  with minimal photon fluxes.
+\newblock {\em Science}, 355(6325):606--612.
+
+\bibitem[Betzig et~al., 2006]{betzig2006imaging}
+Betzig, E., Patterson, G.~H., Sougrat, R., Lindwasser, O.~W., Olenych, S.,
+  Bonifacino, J.~S., Davidson, M.~W., Lippincott-Schwartz, J., and Hess, H.~F.
+  (2006).
+\newblock Imaging intracellular fluorescent proteins at nanometer resolution.
+\newblock {\em Science}, 313(5793):1642--1645.
+
+\bibitem[Cnossen et~al., 2020]{cnossen2020localization}
+Cnossen, J., Hinsdale, T., Thorsen, R.~{\O}., Siemons, M., Schueder, F.,
+  Jungmann, R., Smith, C.~S., Rieger, B., and Stallinga, S. (2020).
+\newblock Localization microscopy at doubled precision with patterned
+  illumination.
+\newblock {\em Nature methods}, 17(1):59--63.
+
+\bibitem[Denk et~al., 1990]{denk1990two}
+Denk, W., Strickler, J.~H., and Webb, W.~W. (1990).
+\newblock Two-photon laser scanning fluorescence microscopy.
+\newblock {\em Science}, 248(4951):73--76.
+
+\bibitem[Gall, 1967]{gall1967octagonal}
+Gall, J.~G. (1967).
+\newblock Octagonal nuclear pores.
+\newblock {\em The Journal of cell biology}, 32(2):391--399.
+
+\bibitem[Gustafsson, 2000]{gustafsson2000surpassing}
+Gustafsson, M.~G. (2000).
+\newblock Surpassing the lateral resolution limit by a factor of two using
+  structured illumination microscopy.
+\newblock {\em Journal of microscopy}, 198(2):82--87.
+
+\bibitem[Gwosch et~al., 2020]{gwosch2020minflux}
+Gwosch, K.~C., Pape, J.~K., Balzarotti, F., Hoess, P., Ellenberg, J., Ries, J.,
+  and Hell, S.~W. (2020).
+\newblock Minflux nanoscopy delivers 3d multicolor nanometer resolution in
+  cells.
+\newblock {\em Nature methods}, 17(2):217--224.
+
+\bibitem[Heintzmann and Cremer, 1999]{heintzmann1999laterally}
+Heintzmann, R. and Cremer, C.~G. (1999).
+\newblock Laterally modulated excitation microscopy: improvement of resolution
+  by using a diffraction grating.
+\newblock In {\em Optical Biopsies and Microscopic Techniques III}, volume
+  3568, pages 185--196. International Society for Optics and Photonics.
+
+\bibitem[Hell et~al., 1994]{hell1994measurement}
+Hell, S.~W., Lindek, S., Cremer, C., and Stelzer, E.~H. (1994).
+\newblock Measurement of the 4pi-confocal point spread function proves 75 nm
+  axial resolution.
+\newblock {\em Applied Physics Letters}, 64(11):1335--1337.
+
+\bibitem[Hell and Wichmann, 1994]{hell1994breaking}
+Hell, S.~W. and Wichmann, J. (1994).
+\newblock Breaking the diffraction resolution limit by stimulated emission:
+  stimulated-emission-depletion fluorescence microscopy.
+\newblock {\em Optics letters}, 19(11):780--782.
+
+\bibitem[Huang et~al., 2016]{huang2016ultra}
+Huang, F., Sirinakis, G., Allgeyer, E.~S., Schroeder, L.~K., Duim, W.~C.,
+  Kromann, E.~B., Phan, T., Rivera-Molina, F.~E., Myers, J.~R., Irnov, I.,
+  et~al. (2016).
+\newblock Ultra-high resolution 3d imaging of whole cells.
+\newblock {\em Cell}, 166(4):1028--1040.
+
+\bibitem[Jouchet et~al., 2019]{jouchet2019nanometric}
+Jouchet, P., Cabriel, C., Bourg, N., Bardou, M., Po{\"u}s, C., Fort, E., and
+  L{\'e}v{\^e}que-Fort, S. (2019).
+\newblock Nanometric axial localization of single fluorescent molecules with
+  modulated excitation.
+\newblock {\em BioRxiv}, page 865865.
+
+\bibitem[Li et~al., 2018]{li2018real}
+Li, Y., Mund, M., Hoess, P., Deschamps, J., Matti, U., Nijmeijer, B., Sabinina,
+  V.~J., Ellenberg, J., Schoen, I., and Ries, J. (2018).
+\newblock Real-time 3d single-molecule localization using experimental point
+  spread functions.
+\newblock {\em Nature methods}, 15(5):367--369.
+
+\bibitem[Lidke et~al., 2005]{lidke2005superresolution}
+Lidke, K.~A., Rieger, B., Jovin, T.~M., and Heintzmann, R. (2005).
+\newblock Superresolution by localization of quantum dots using blinking
+  statistics.
+\newblock {\em Optics express}, 13(18):7052--7062.
+
+\bibitem[L{\"o}schberger et~al., 2012]{loschberger2012super}
+L{\"o}schberger, A., van~de Linde, S., Dabauvalle, M.-C., Rieger, B.,
+  Heilemann, M., Krohne, G., and Sauer, M. (2012).
+\newblock Super-resolution imaging visualizes the eightfold symmetry of gp210
+  proteins around the nuclear pore complex and resolves the central channel
+  with nanometer resolution.
+\newblock {\em J Cell Sci}, 125(3):570--575.
+
+\bibitem[Masullo et~al., 2020]{masullo2020pulsed}
+Masullo, L.~A., Steiner, F., Zahringer, J., Lopez, L.~F., Bohlen, J., Richter,
+  L., Cole, F., Tinnefeld, P., and Stefani, F.~D. (2020).
+\newblock Pulsed interleaved minflux.
+\newblock {\em Nano Letters}.
+
+\bibitem[Minsky, 1988]{minsky1988memoir}
+Minsky, M. (1988).
+\newblock Memoir on inventing the confocal scanning microscope.
+\newblock {\em Scanning}, 10(4):128--138.
+
+\bibitem[Pape et~al., 2020]{pape2020multicolor}
+Pape, J.~K., Stephan, T., Balzarotti, F., B{\"u}chner, R., Lange, F., Riedel,
+  D., Jakobs, S., and Hell, S.~W. (2020).
+\newblock Multicolor 3d minflux nanoscopy of mitochondrial micos proteins.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  117(34):20607--20614.
+
+\bibitem[Prakash, 2020]{Prakash121061}
+Prakash, K. (2020).
+\newblock Laser-free super-resolution microscopy.
+\newblock {\em bioRxiv}.
+
+\bibitem[Reymond et~al., 2020]{reymond2020modulation}
+Reymond, L., Huser, T., Ruprecht, V., and Wieser, S. (2020).
+\newblock Modulation-enhanced localization microscopy.
+\newblock {\em Journal of Physics: Photonics}, 2(4):041001.
+
+\bibitem[Rossberger et~al., 2013]{rossberger2013combination}
+Rossberger, S., Best, G., Baddeley, D., Heintzmann, R., Birk, U., Dithmar, S.,
+  and Cremer, C. (2013).
+\newblock Combination of structured illumination and single molecule
+  localization microscopy in one setup.
+\newblock {\em Journal of Optics}, 15(9):094003.
+
+\bibitem[Sahl et~al., 2017]{sahl2017fluorescence}
+Sahl, S.~J., Hell, S.~W., and Jakobs, S. (2017).
+\newblock Fluorescence nanoscopy in cell biology.
+\newblock {\em Nature reviews Molecular cell biology}, 18(11):685.
+
+\bibitem[Schermelleh et~al., 2019]{schermelleh2019super}
+Schermelleh, L., Ferrand, A., Huser, T., Eggeling, C., Sauer, M., Biehlmaier,
+  O., and Drummen, G.~P. (2019).
+\newblock Super-resolution microscopy demystified.
+\newblock {\em Nature cell biology}, 21(1):72--84.
+
+\bibitem[Thevathasan et~al., 2019]{thevathasan2019nuclear}
+Thevathasan, J.~V., Kahnwald, M., Cie{\'s}li{\'n}ski, K., Hoess, P., Peneti,
+  S.~K., Reitberger, M., Heid, D., Kasuba, K.~C., Hoerner, S.~J., Li, Y.,
+  et~al. (2019).
+\newblock Nuclear pores as versatile reference standards for quantitative
+  superresolution microscopy.
+\newblock {\em Nature methods}, 16(10):1045--1053.
+
+\bibitem[Zhang et~al., 2015]{zhang2015ultrahigh}
+Zhang, Z., Kenny, S.~J., Hauser, M., Li, W., and Xu, K. (2015).
+\newblock Ultrahigh-throughput single-molecule spectroscopy and spectrally
+  resolved super-resolution microscopy.
+\newblock {\em Nature methods}, 12(10):935--938.
+
+\end{thebibliography}

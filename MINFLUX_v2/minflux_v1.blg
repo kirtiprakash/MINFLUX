@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: minflux_v1.aux
+The style file: apalike.bst
+Database file #1: mylib.bib
+Repeated entry---line 260 of file mylib.bib
+ : @article{pape2020multicolor
+ :                            ,
+I'm skipping whatever remains of this entry
+You've used 26 entries,
+            1935 wiz_defined-function locations,
+            649 strings with 9909 characters,
+and the built_in function-call counts, 12989 in all, are:
+= -- 1220
+> -- 783
+< -- 10
++ -- 284
+- -- 284
+* -- 1254
+:= -- 2288
+add.period$ -- 79
+call.type$ -- 26
+change.case$ -- 270
+chr.to.int$ -- 26
+cite$ -- 26
+duplicate$ -- 384
+empty$ -- 757
+format.name$ -- 314
+if$ -- 2447
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 133
+num.names$ -- 78
+pop$ -- 222
+preamble$ -- 1
+purify$ -- 270
+quote$ -- 0
+skip$ -- 297
+stack$ -- 0
+substring$ -- 869
+swap$ -- 48
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 156
+warning$ -- 0
+while$ -- 95
+width$ -- 0
+write$ -- 339
+(There was 1 error message)
